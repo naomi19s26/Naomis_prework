@@ -24,7 +24,7 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/jmpTsPm' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
-![Prework app](https://imgur.com/jmpTsPm)
+![Prework app](https://github.com/naomi19s26/Naomis_prework/blob/master/AND%20102%20prework.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
