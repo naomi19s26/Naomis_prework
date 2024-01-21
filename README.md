@@ -1,4 +1,4 @@
-# Android Prework - *Name of App Here*
+# Android Prework - AND_102 prework
 
 Submitted by: Naomi Enogieru
 
