@@ -29,7 +29,7 @@ GIF created with ...
 ScreenToGif
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
+[ScreenToGif](https://imgur.com/a/VystL42) for Windows
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
