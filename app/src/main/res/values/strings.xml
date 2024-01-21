@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">pre_work_naomi</string>
+    <string name="naomi_intro">Hi my name is Naomi. I love android development. I can\'t wait to start the full course in february!</string>
+    <string name="first_button">Welcome!</string>
+</resources>
