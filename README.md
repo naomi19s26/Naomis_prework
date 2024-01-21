@@ -24,6 +24,8 @@ Here's a walkthrough of implemented features:
 
 <img src='https://imgur.com/jmpTsPm' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
+![Prework app](https://imgur.com/jmpTsPm)
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
 ScreenToGif
